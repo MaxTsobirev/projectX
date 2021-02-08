@@ -1,1 +1,13 @@
-dfghasdfjasjdfjas
+﻿Main characteristics
+--------------------------------------------
+Brand - Toyota
+Model - Toyota Camry
+Modification - Toyota Camry 3.5 AT
+Model year - 2017
+Body type - Sedan
+Price - 27 688 EUR
+-------------------------------------------
+Performance characteristics
+-------------------------------------------
+Acceleration time to 100 km / h - 7.7 sec
+Maximum speed - 220 km / h

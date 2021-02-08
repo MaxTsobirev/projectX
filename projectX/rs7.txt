@@ -1,1 +1,14 @@
-rwreqwreqwreqwrqewrqewerw
+Main characteristics
+--------------------------------------------
+Brand - AUDI
+Model - AUDI RS 7 
+Model year - 2014
+Body type - Coupe
+Price - 96000 EUR
+-------------------------------------------
+Performance characteristics
+-------------------------------------------
+Acceleration time to 100 km / h - 3.9 sec
+Maximum speed - 250 km / h
+
+

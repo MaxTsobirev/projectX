@@ -1,1 +1,14 @@
-wasd
+Main characteristics
+--------------------------------------------
+Brand - Mercedes
+Model - Mercedes Benz AMG GT
+Model year - 2014
+Body type - Coupe
+Price - 121830 EUR
+-------------------------------------------
+Performance characteristics
+-------------------------------------------
+Acceleration time to 100 km / h - 3.8 sec
+Maximum speed - 310 km / h
+
+

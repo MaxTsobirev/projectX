@@ -24,11 +24,11 @@
     <Compile Include="projectX.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="amg.png" />
     <Content Include="amg.txt" />
     <Content Include="bmw.txt" />
-    <Content Include="Camry.txt" />
-    <Content Include="amg.png" />
     <Content Include="camry.png" />
+    <Content Include="Camry.txt" />
     <Content Include="e46.png" />
     <Content Include="rs7.png" />
     <Content Include="rs7.txt" />

@@ -1,1 +1,14 @@
-bmw
+﻿Main characteristics
+--------------------------------------------
+Brand - BMW
+Model - BMW M3 E46
+Model year - 2005
+Body type - Sedan
+Price - 2600 EUR
+-------------------------------------------
+Performance characteristics
+-------------------------------------------
+Acceleration time to 100 km / h - 7.2 sec
+Maximum speed - 200 km / h
+
+
